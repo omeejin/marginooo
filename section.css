@@ -39,7 +39,7 @@
 }
 
 .works-box-img {
-    height: 200px;
+    height: 300px;
     overflow: hidden;
     position: relative;
     margin-bottom: 20px;
@@ -102,12 +102,6 @@
 
 .works-detail-img {
     width: 100%;
-}
-
-.main {
-    width: 100vw;
-    box-sizing: border-box;
-    overflow-x: hidden;
 }
 
 }
