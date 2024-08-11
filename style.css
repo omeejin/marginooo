@@ -29,7 +29,6 @@ body {
 main {
   margin: 65px 30px 50px 30px;
   width: 100%;
-  overflow-x: hidden;
   box-sizing: border-box;
 }
 
