@@ -101,9 +101,13 @@
 /* 작은 화면일 때 */
 @media screen and (max-width: 800px) {
 
-.works-detail-img {
-    width: 100%;
-}
+    .works-detail-img {
+        width: 100%;
+    }
+
+    .works-detail-img:last-child {
+        margin-bottom: 20px;
+    }
 
 }
 
@@ -111,4 +115,5 @@
     .works {
         grid-template-columns: 1fr; /* Single column on small screens */
     }
+
 }
