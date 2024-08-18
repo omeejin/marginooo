@@ -35,6 +35,8 @@ main {
 .headline {
   font-size: 25px;
   padding-bottom: 7px;
+  line-height: 130%;
+
 }
 
 .middleline {
@@ -63,4 +65,8 @@ main {
 
 .inactive {
   color: rgba(0,0,0,0.5);
+}
+
+.blur {
+  filter: blur(1rem);
 }
